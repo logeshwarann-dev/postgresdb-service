@@ -1,5 +1,5 @@
 # Start with the official Postgres image as the base
-FROM postgres:13
+FROM postgres:16
 
 # Set the environment variables
 ENV POSTGRES_USER=postgres
